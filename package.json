@@ -1,0 +1,23 @@
+{
+  "name": "kanyewestlobber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notjustleo/kanyewestlobber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notjustleo/kanyewestlobber/issues"
+  },
+  "homepage": "https://github.com/notjustleo/kanyewestlobber#readme",
+  "dependencies": {
+    "twitter-api-v2": "^1.14.1"
+  }
+}
