@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/notjustleo/kanyewestlobber#readme",
   "dependencies": {
+    "chalk": "^4.1.0",
+    "dotenv": "^16.0.3",
+    "rword": "^3.2.1",
+    "twit": "^2.2.11",
     "twitter-api-v2": "^1.14.1"
   }
 }
